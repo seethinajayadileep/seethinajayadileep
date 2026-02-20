@@ -52,11 +52,11 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=seethinajayadileep&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=seethinajayadileep&theme=dark&hide_border=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=seethinajayadileep&theme=dark&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=seethinajayadileep&theme=dark&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seethinajayadileep&theme=dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seethinajayadileep&theme=dark&hide_border=true&layout=compact)
 
 
 ### ✍️ Random Dev Quote
