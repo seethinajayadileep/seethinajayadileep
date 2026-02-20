@@ -29,10 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seethinajayadileep&show_icons=true&locale=en" alt="seethinajayadileep" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seethinajayadileep&" alt="seethinajayadileep" /></p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seethinajayadileep&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=seethinajayadileep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phanipaladugula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
