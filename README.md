@@ -52,11 +52,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=seethinajayadileep&theme=dark&hide_border=true)
+
 
 ![Streak](https://streak-stats.demolab.com?user=seethinajayadileep&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seethinajayadileep&theme=dark&hide_border=true&layout=compact)
+
 
 
 ### ✍️ Random Dev Quote
