@@ -24,4 +24,11 @@ Full-stack engineer building AI agents, automation, and test systems.
 
 ## Open source
 
-[SeleniumHQ/selenium#17177](https://github.com/SeleniumHQ/selenium/pull/17177) — Java: fix silent overflow when coercing JSON numbers to integral types.
+PRs on other people's repos, not mine.
+
+| Project | Status | What |
+| --- | --- | --- |
+| [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium/pulls?q=is%3Apr+author%3Aseethinajayadileep) | 6 merged, [1 open](https://github.com/SeleniumHQ/selenium/pull/17177) | Java bindings: Keys, Platform NPE, screenshot errors, JSON number overflow, ScriptKey |
+| [streamshub/console#2867](https://github.com/streamshub/console/pull/2867) | merged | Kafka console: ignore Apicurio 3 split packages in Quarkus ARC |
+| [JetBrains/swot#31700](https://github.com/JetBrains/swot/pull/31700) | merged | Add Aditya College of Engineering (`acoe.edu.in`) for academic licenses |
+| [interviewAi#1](https://github.com/sominenivenumadhava/interviewAi/pull/1) | merged | Teal UI, bug fixes, navigation. [Open #2](https://github.com/sominenivenumadhava/interviewAi/pull/2) (draft) |
