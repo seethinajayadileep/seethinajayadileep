@@ -8,7 +8,7 @@ Full-stack engineer building AI agents, automation, and test systems.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,fastapi,spring,selenium,playwright,githubactions,git&perline=10" alt="Skills" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,fastapi,spring,selenium,githubactions,git&perline=10" alt="Skills" />
 
 </div>
 
