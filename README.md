@@ -8,7 +8,7 @@ Full-stack engineer building AI agents, automation, and test systems.
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,fastapi,spring,selenium,githubactions,git&perline=10" alt="Skills" />
+<img src="./assets/skills.png" alt="Skills" width="680" />
 
 </div>
 
@@ -40,33 +40,28 @@ PRs on other people's repos, not mine.
 
 <div align="center">
 
-<a href="https://github.com/seethinajayadileep">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seethinajayadileep&theme=radical" alt="GitHub stats" />
-</a>
-<a href="https://github.com/seethinajayadileep">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seethinajayadileep&theme=radical" alt="Top languages by repo" />
-</a>
-<a href="https://github.com/seethinajayadileep">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seethinajayadileep&theme=radical" alt="Top languages by commit" />
-</a>
+<img src="./assets/details.png" alt="Profile details" width="700" />
 
 <br/>
 
+<img src="./assets/stats.png" alt="GitHub stats" height="180" />
+<img src="./assets/langs-repo.png" alt="Top languages by repo" height="180" />
+<img src="./assets/langs-commit.png" alt="Top languages by commit" height="180" />
+
+<br/>
+
+<!-- live streak SVG — demolab host is reliable; PNG conversion drops fonts -->
 <a href="https://github.com/seethinajayadileep">
   <img src="https://streak-stats.demolab.com?user=seethinajayadileep&theme=radical&hide_border=true" alt="GitHub streak" />
 </a>
 
 <br/>
 
-<a href="https://github.com/seethinajayadileep">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=seethinajayadileep" alt="Contribution stats with commits and pull requests" />
-</a>
-<a href="https://github.com/seethinajayadileep">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seethinajayadileep&theme=radical&utcOffset=5.5" alt="Productive time" />
-</a>
+<img src="./assets/productive.png" alt="Productive time commits chart" height="200" />
 
 <br/>
 
+<!-- live view counter so the number keeps updating -->
 <img src="https://komarev.com/ghpvc/?username=seethinajayadileep&style=flat-square&color=fe428e" alt="Profile views" />
 
 </div>
