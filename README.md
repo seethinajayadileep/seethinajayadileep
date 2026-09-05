@@ -41,10 +41,13 @@ PRs on other people's repos, not mine.
 <div align="center">
 
 <a href="https://github.com/seethinajayadileep">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=seethinajayadileep&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=seethinajayadileep&theme=radical" alt="GitHub stats" />
 </a>
 <a href="https://github.com/seethinajayadileep">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seethinajayadileep&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seethinajayadileep&theme=radical" alt="Top languages by repo" />
+</a>
+<a href="https://github.com/seethinajayadileep">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seethinajayadileep&theme=radical" alt="Top languages by commit" />
 </a>
 
 <br/>
@@ -56,7 +59,10 @@ PRs on other people's repos, not mine.
 <br/>
 
 <a href="https://github.com/seethinajayadileep">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=seethinajayadileep&theme=radical&bg_color=0d1117&color=fe428e&line=fe428e&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=seethinajayadileep" alt="Contribution stats with commits and pull requests" />
+</a>
+<a href="https://github.com/seethinajayadileep">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seethinajayadileep&theme=radical&utcOffset=5.5" alt="Productive time" />
 </a>
 
 <br/>
